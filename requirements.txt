@@ -1,0 +1,6 @@
+fastmcp
+langchain
+langchain-groq
+langchain-mcp-adapters
+langgraph
+requests
